@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './Header'
 import Article from './Article'
-//Article has another component in it
+//Article has Info, Body, and Links components
 import Ad from './Ad'
 import Footer from './Footer'
 import Clickbait from "./Clickbait"
