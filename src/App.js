@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 //import logo from './logo.svg';
 import './App.css';
 import Header from './Header'
+//Header has Headline and Redirects components
 import Article from './Article'
 //Article has Info, Body, and Links components
 import Ad from './Ad'
